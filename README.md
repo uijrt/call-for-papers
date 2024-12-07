@@ -14,7 +14,7 @@ Our goal is to advance research in diverse fields such as science, technology, s
 ---
 
 ## About the Journal
-**UIJRT (United International Journal for Research & Technology)** is committed to publishing high-quality, peer-reviewed academic work. We aim to connect researchers from various fields, providing a platform for impactful scholarly contributions.
+[**UIJRT (United International Journal for Research & Technology)**](https://uijrt.com) is committed to publishing high-quality, peer-reviewed academic work. We aim to connect researchers from various fields, providing a platform for impactful scholarly contributions.
 
 ### Disciplines and Themes
 We welcome papers from the following domains:
@@ -34,6 +34,7 @@ To ensure successful submission:
 3. Write a compelling **cover letter** that highlights the significance of your work.
 4. Craft an engaging **title and abstract** to attract interest.
 5. Consider professional editing for enhanced readability.
+6. [Guidelines for Authors](https://uijrt.com/guidelines-for-author)
 
 ### Manuscript Formatting
 Follow the appropriate formatting style:
