@@ -1,6 +1,6 @@
 # Call for Papers: Research and Review Paper Submission
 
-We are excited to announce a **Call for Papers (CFP)**, inviting researchers and scholars to submit their work for our upcoming **academic conferences**. This initiative is essential for sharing knowledge and fostering **scholarly collaboration**.
+We are excited to announce a [**Call for Papers (CFP)**](https://uijrt.com/call-for-papers), inviting researchers and scholars to submit their work for our upcoming **academic conferences**. This initiative is essential for sharing knowledge and fostering **scholarly collaboration**.
 
 Our goal is to advance research in diverse fields such as science, technology, social sciences, arts, and humanities. By joining us, you contribute to expanding global academic conversations and promoting top-notch research worldwide.
 
@@ -72,8 +72,8 @@ The **peer review process** ensures the quality and trustworthiness of academic 
 | Peer Review Phase    | Timeframe         | Key Details                               |
 |----------------------|-------------------|-------------------------------------------|
 | **Preliminary Review** | 3 working days   | Initial assessment for correctness.       |
-| **Review Completion**  | 4-6 weeks        | Average time for detailed evaluations.    |
-| **Overall Process**    | ~3 months        | From submission to publication.           |
+| **Review Completion**  | 3 working days      | Average time for detailed evaluations.    |
+| **Overall Process**    | 6 working days      | From submission to publication.           |
 
 ---
 
