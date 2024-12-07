@@ -56,7 +56,7 @@ Select the right platform for your paper:
 ---
 
 ## Important Deadlines
-| Event                       | Date           |
+| Event                       | Date/Duration           |
 |-----------------------------|----------------|
 | Submission Deadline         | December 30, 2024 |
 | Peer Review Completion      | 3 Days after submission |
@@ -85,10 +85,8 @@ The **peer review process** ensures the quality and trustworthiness of academic 
 ---
 
 ## Contact
-For inquiries or submissions, visit our website or email us at [info@uijrt.org](mailto:info@uijrt.org).
+For inquiries or submissions, visit our website or email us at [editor@uijrt.org](mailto:editor@uijrt.org).
 
 ---
-
-[Watch Our Video Guide](https://www.youtube.com/watch?v=1vAUEht4SSM)
 
 Submit your work and join the global conversation to advance knowledge!
