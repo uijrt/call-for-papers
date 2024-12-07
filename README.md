@@ -58,10 +58,9 @@ Select the right platform for your paper:
 ## Important Deadlines
 | Event                       | Date           |
 |-----------------------------|----------------|
-| Submission Deadline         | March 15, 2024 |
-| Peer Review Completion      | June 15, 2024  |
-| Final Decision Notification | July 1, 2024   |
-| Publication Date            | August 30, 2024|
+| Submission Deadline         | December 30, 2024 |
+| Peer Review Completion      | 3 Days after submission |
+| Publication Date            | Within 24 hours after the acceptance |
 
 Meeting deadlines ensures a smooth review and publication process.
 
