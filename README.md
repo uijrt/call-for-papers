@@ -1,1 +1,1 @@
-# call-for-papers
+# Call for Papers
