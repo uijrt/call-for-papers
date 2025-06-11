@@ -59,7 +59,7 @@ Select the right platform for your paper:
 ## Important Deadlines
 | Event                       | Date/Duration           |
 |-----------------------------|----------------|
-| Submission Deadline         | December 30, 2024 |
+| Submission Deadline         | June 30, 2025 |
 | Peer Review Completion      | 3 Days after submission |
 | Publication Date            | Within 24 hours after the acceptance |
 
